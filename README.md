@@ -11,4 +11,8 @@ Currently, I'm working on:
 
 Both of them are not implemented yet, but if you PayPal me $30k I'll consider it.
 
-![Paypal $30k](https://media.tenor.com/CGRP4MSNly0AAAAM/paypal-30000.gif)
+<div align="center">
+
+  ![Paypal $30k](https://media.tenor.com/CGRP4MSNly0AAAAM/paypal-30000.gif)
+  
+</div>

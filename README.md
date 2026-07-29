@@ -1,5 +1,9 @@
+<div align="center">
+  
 # What are you looking at?! 
 Unless you're a recruiter, then please stay, I need a job!
+
+</div>
 
 Currently, I'm working on:
 1. AnimaLink - Basically just a game where you become a train dispatcher, plus anime gacha RPG.

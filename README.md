@@ -9,8 +9,7 @@ Unless you're a recruiter, then please stay, I need a job!
 
 Currently, I'm working on:
 1. Blue Archive Ren'Py - Just some Ren'Py file that could make your Ren'Py project looks like a BA dialogue.
-2. AnimaLink - Basically just a game where you become a train dispatcher, plus anime gacha RPG.
-3. PomoCLI - Just a Pomodoro, but it's CLI. <kbd>Cool, right?</kbd>
+2. PICSIT - Kinda like Gartic, but it has Amogus vibe. <kbd>Cool, right?</kbd>
 
 Both of the last two are not implemented yet, but if you PayPal me $30k I'll consider it.
 
